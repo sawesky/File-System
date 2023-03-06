@@ -1,0 +1,7 @@
+﻿  FileSystem.cpp
+D:\projekti\File-System\Domaci2\Domaci2\FileSystem.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
+  Test.cpp
+  TreeNode.cpp
+  Generating Code...
+D:\projekti\File-System\Domaci2\Domaci2\FileSystem.cpp(138,22): warning C4018: '<': signed/unsigned mismatch
+  Domaci2.vcxproj -> D:\projekti\File-System\Domaci2\Debug\Domaci2.exe
